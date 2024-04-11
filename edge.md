@@ -45,6 +45,6 @@ header: "**エッジコンピューティング**"
 * Swift or Kotlin
 * CoreML or TensorFlow
 * WebAPI
-* 何かしらのフレームワークやデータベース（一番後回し）
+* 何かしらのインフラ、フレームワークやデータベース（一番後回し）
 
 
